@@ -1,0 +1,7 @@
+total 84
+drwxrwxr-x   3 praetor praetor  4096 May 13 03:31 ./
+drwx------ 126 praetor praetor 45056 May 13 02:50 ../
+-rw-rw-r--   1 praetor praetor     0 May 12 23:34 branch.txt
+-rw-rw-r--   1 praetor praetor     0 May 13 03:31 file99.txt
+drwxrwxr-x   8 praetor praetor  4096 May 13 03:30 .git/
+-rw-rw-r--   1 praetor praetor    72 May 12 23:25 README.md
